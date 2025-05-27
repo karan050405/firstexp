@@ -1,1 +1,3 @@
 anymodification->add->commit->push
+
+ git pull
